@@ -1,0 +1,22 @@
+{
+    "name": "whateverthing/captain-cold",
+    "description": "An array that can be frozen (turned to readonly)",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^10.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Whateverthing\\CaptainCold\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kevin Boyd",
+            "email": "kevin@whateverthing.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
